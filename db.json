@@ -1,0 +1,192 @@
+{
+  "cocktails": [
+    {
+      "title": "Bourbon Old Fashioned",
+      "description": "When you get right down to it, the Bourbon Old Fashioned is little more than a slug of whiskey, seasoned and sweetened. Yet for all of its suave simplicity, the drink remains as relevant today as it was when it first captured drinkers’ hearts 200 years ago.",
+      "id": 1,
+      "ingredients": [
+        "1/2 teaspoon sugar",
+        "3 dashes Angostura bitters",
+        "1 teaspoon water",
+        "2 ounces bourbon",
+        "Garnish: orange peel"
+      ],
+      "steps": [
+        "Add the sugar, bitters and water into a rocks glass, and stir until sugar is nearly dissolved.",
+        "Fill the glass with large ice cubes, add the bourbon, and gently stir to combine.",
+        "Express the oil of an orange peel over the glass, then drop in."
+      ],
+      "image": "https://www.liquor.com/thmb/OdGMZLH9XqRF1_WzYCg8V_jvX38=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg"
+    },
+    {
+      "title": "Negroni",
+      "description": "Easy to make and refreshingly bitter, the Negroni is said to have been invented in Florence by a dauntless Italian count who demanded that the bartender replace the club soda in his Americano with gin. It was a substitution that launched a thousand riffs.",
+      "id": 2,
+      "ingredients": [
+        "1 ounce gin",
+        "1 ounce Campari",
+        "1 ounce sweet vermouth",
+        "Garnish: orange peel"
+      ],
+      "steps": [
+        "Add all the ingredients into a mixing glass with ice, and stir until well-chilled.",
+        "Strain into a rocks glass filled with large ice cubes.",
+        "Garnish with an orange peel."
+      ],
+      "image": "https://www.liquor.com/thmb/PGdbkJ8aJBacJ3o2TaTBpcl-luQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08110806__negroni-720x720-recipe-7c1b747a616f4659af4008d025ab55df.jpg"
+    },
+    {
+      "title": "Daiquiri",
+      "description": "No drink has suffered more abuse than the Daiquiri. In the roughly 130 years since its inception, the granddaddy of rum cocktails has gone from the pride of Havana to an unloved extra on the back of a Señor Frog’s table tent. Even today, as the craft cocktail movement reaches full tilt, most people too often associate the Daiquiri with adult slushies, the stuff of spring break blackouts and mind-splitting hangovers..",
+      "id": 3,
+      "ingredients": [
+        "2 ounces light rum",
+        "1 ounce fresh lime juice",
+        "3/4 ounce demerara sugar syrup",
+        "Garnish: lime twist"
+      ],
+      "steps": [
+        "Add all the ingredients into a shaker with ice, and shake until well-chilled.",
+        "Strain into a chilled coupe.",
+        "Garnish with a lime twist."
+      ],
+      "image": "https://www.liquor.com/thmb/fBdarldJ6my-jGyIsAIH0NvZsW4=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__04__23143458__daiquiri-720x720-recipe-09f1d5665a794eddbbfb997876736136.jpg"
+    },
+    {
+      "title": "Dry Martini",
+      "description": "Who mixed the world’s first Martini? You could stumble down a very deep, dark rabbit hole trying to find out. Was it a California prospector during the 1849 Gold Rush or the barman at a flossy New York City hotel 50 years later? Both Martini origin stories hold water. Neither will leave you feeling as blissful and content as a well-made and classic Dry Martini.",
+      "id": 4,
+      "ingredients": [
+        "2 1/2 ounces gin",
+        "1/2 ounce dry vermouth",
+        "1 dash orange bitters",
+        "Garnish: lemon twist"
+      ],
+      "steps": [
+        "Add all the ingredients into a mixing glass with ice and stir until very cold.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with a lemon twist."
+      ],
+      "image": "https://www.liquor.com/thmb/nEbTQGSTkAxF2jYVmFGaH0z8vJ8=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dry-martini-720x720-primary-a6de08f8cd584ad88520287922578bcb.jpg"
+    },
+    {
+      "title": "Whiskey Sour",
+      "description": "Spirit, citrus and sugar—the original big three—come together in the Whiskey Sour, whose history stretches back to the Lincoln administration. Few drinks in the cocktail canon are as quick to satisfy and endlessly mutable as the Whiskey Sour. Add a flourish to any component, and you have your own personal spin on this classic sour. We like our Whiskey Sour thickened with egg white and a few dashes of aromatic bitters for a complementary spice note.",
+      "id": 5,
+      "ingredients": [
+        "2 ounces bourbon",
+        "3/4 ounce fresh lemon juice",
+        "1/2 ounce simple syrup",
+        "1/2 ounce egg white (optional)",
+        "Garnish: Angostura bitters"
+      ],
+      "steps": [
+        "Add all ingredients into a shaker and dry-shake (no ice).",
+        "Add ice and shake again.",
+        "Strain into a coupe glass.",
+        "Garnish with 3 or 4 drops of Angostura bitters."
+      ],
+      "image": "https://www.liquor.com/thmb/XCAivtl0pyQdDaDr8jFq-wtGI5Q=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/whiskey-sour-720x720-primary-v2-4fc831b613964da5a19cdbfda917d7df.jpg"
+    },
+    {
+      "title": "Espresso Martini",
+      "description": "If you’re looking for a pick-me-up post-dinner, the Espresso Martini is here to jolt you awake with its boozy magical powers. The cold coffee-flavored cocktail mixes vodka with espresso coffee, coffee liqueur (usually Kahlúa) and simple syrup. Garnish with a few coffee beans, and it’s picture perfect.",
+      "id": 6,
+      "ingredients": [
+        "2 oz Vodka",
+        "1/2 oz Simple syrup",
+        "1/2 oz Coffee liqueur",
+        "1 oz Freshly brewed espresso",
+        "Garnish: Coffee beans"
+      ],
+      "steps": [
+        "Add all of the ingredients into a shaker with ice and shake.",
+        "Fine-strain into a chilled cocktail glass.",
+        "Garnish with 3 coffee beans."
+      ],
+      "image": "https://www.liquor.com/thmb/7vhuCG6SEQ-S238DIOUpyv87eSw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__09__01105623__espresso-martini-720x720-recipe-Molly-909b41dfe98c4f49b65a319ae28dd51e.jpeg"
+    },
+    {
+      "title": "Margarita",
+      "description": "The Margarita is one of the most popular cocktails in North America—for good reason. Combining the tang of lime and the sweetness of orange liqueur with the distinctive strength of tequila, our classic Margarita strikes all of the right keys.",
+      "id": 7,
+      "ingredients": [
+        "2 oz Blanco tequila",
+        "1 oz Fresh lime juice",
+        "1/2 oz Orange liqueur",
+        "1/2 oz Agave syrup",
+        "Garnish: Lime wheel",
+        "Garnish: Kosher salt"
+      ],
+      "steps": [
+        "Add all the ingredients into a shaker with ice, and shake until chilled.",
+        "Strain into the prepared rocks glass over fresh ice.",
+        "Garnish with a lime wheel and kosher salt (optional)."
+      ],
+      "image": "https://www.liquor.com/thmb/HzYcHscHlBK0Dj5M6eJOb5M9YjQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__04__23134943__Margarita-720x720-recipe-v2-6dc3213825c94a9cb6d7ce1818ce6e31.jpg"
+    },
+    {
+      "title": "Manhattan",
+      "description": "The Manhattan was the most famous cocktail in the world shortly after it was invented in New York City’s Manhattan Club, some time around 1880 (as the story goes). Over the years, the whiskey classic has dipped in and out of fashion before finding its footing as one of the cornerstones of the craft cocktail renaissance.",
+      "id": 8,
+      "ingredients": [
+        "2 ounces bourbon or rye",
+        "1 ounce sweet vermouth",
+        "2 dashes Angostura bitters",
+        "1 dash orange bitters",
+        "Garnish: brandied cherry"
+      ],
+      "steps": [
+        "Add all the ingredients into a mixing glass with ice, and stir until well-chilled.",
+        "Strain into a chilled coupe.",
+        "Garnish with a brandied cherry."
+      ],
+      "image": "https://www.liquor.com/thmb/gSN7fXX_rGkGi-3M6bmPhE7BqAk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__10144903__Manhattan-720x720-recipe-9497922907c14d91898f557cb51f2ea3.jpg"
+    },
+    {
+      "title": "Mojito",
+      "description": "To many people, the Mojito represents the perfect rum cocktail. The origins of this classic drink can be traced back to Cuba and the 16th-century Cuban cocktail El Draque, named for Sir Francis Drake.",
+      "id": 9,
+      "ingredients": [
+        "3 mint leaves",
+        "2 ounces white rum",
+        "3/4 ounce fresh lime juice",
+        "1/2 ounce simple syrup",
+        "club soda, to top",
+        "Garnish: mint sprig",
+        "Garnish: lime wheel"
+      ],
+      "steps": [
+        "Lightly muddle the mint in a shaker.",
+        "Add the rum, lime juice, simple syrup and ice and give it a brief shake.",
+        "Strain into a highball glass over fresh ice.",
+        "Top with the club soda.",
+        "Garnish with a mint sprig and lime wheel."
+      ],
+      "image": "https://www.liquor.com/thmb/VMoOrrQzOV00AY3rgSK6XxOR0EE=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__09__04153106__mojito-720x720-recipe-a55b114fc99c4a64b38c9ef6d1660e20.jpg"
+    },
+    {
+      "title": "Aperol Spritz",
+      "description": "TThere’s a reason the Aperol Spritz is making a comeback. It’s one of the most popular apéritifs in Italy, and it’s as tasty as it is refreshing. Low in alcohol, aromatic with citrus and slightly bitter, Aperol pairs perfectly with chilled prosecco. The Aperol Spritz is as easy to make as it is to drink, meaning it’s perfect for any time of day and any occasion. It doesn’t hurt that it has a gorgeous coral hue.",
+      "id": 10,
+      "ingredients": [
+        "3 ounces prosecco",
+        "2 ounces Aperol",
+        "1 ounce soda water",
+        "Garnish: orange wheel"
+      ],
+      "steps": [
+        "Add all ingredients into a wine glass with ice and stir.",
+        "Garnish with an orange wheel."
+      ],
+      "image": "https://www.liquor.com/thmb/07gvk8s3cIs2mIj9z2F6ZCu6X3U=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__04__24075106__Aperol-Spritz-720x720-recipe-d36b577de7974fd3a9051707c07bd30b.jpg"
+    }
+  ],
+  "favorites": [
+    {
+      "userId": "103909246597129121964",
+      "cocktailId": 9,
+      "id": 1
+    }
+  ]
+}
